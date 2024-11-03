@@ -1,5 +1,7 @@
 # Dingo Quadruped
 
+modifed by Chris Xu for EPFL AI team
+
 <p align="center">
     <img src="assets/JEL05566.jpg" style="align:centre" width="50%">
 </p>
